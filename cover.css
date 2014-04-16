@@ -54,6 +54,16 @@ body {
   display: table-cell;
   vertical-align: top;
 }
+
+.container {
+      background-image: url(img/bike1.jpg);
+      -moz-background-size: contain;
+      -o-background-size: contain;
+      -webkit-background-size: contain;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
 .container-left{
   /*margin-right: auto;*/
   margin-right: auto;
