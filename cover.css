@@ -123,6 +123,14 @@ body {
   border-bottom-color: #fff;
 }
 
+.textleft {
+  text-align: left;
+}
+
+.glyphicon{
+  margin-right: 1em;
+}
+
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
